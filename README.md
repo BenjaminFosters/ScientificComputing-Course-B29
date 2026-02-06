@@ -14,6 +14,8 @@ An artifact of the **Scientific Computing** Class at BINUS University - Malang C
 
 Related assignment PDFs have been excluded due to confidentiality constraints. These materials are the intellectual property of BINUS University and are not owned by the author.
 
+The included PDFs only contains Jupyter Notebook Exports, not the actual assignment's PDF.
+
 Some Python programs in this repository may be incomplete or experimental at the time of writing. Please use them with appropriate caution.
 
 The source code in this repository is licensed under the MIT License and is provided “as is”, without warranty of any kind.
